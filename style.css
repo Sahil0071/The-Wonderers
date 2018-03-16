@@ -1,0 +1,41 @@
+.navbar {
+    padding: 0px;
+}
+
+.btn2 {
+    margin-right: 30px;
+    background: transparent;
+    border-color: #5A4739;
+    color: #5A4739;
+}
+
+.btn1 {
+    margin-right: 30px;
+    background: #5A4739;
+}
+
+.bg {
+    background: #f8e4cb;
+}
+
+.navbar-light .navbar-nav .nav-link.disabled {
+    color: #5A4739;
+    font-family: 'Berkshire Swash', cursive;
+    font-size: 35px;
+}
+
+body {
+    background: url("https://cdn.pixabay.com/photo/2018/02/26/21/01/cyprus-3184019_1280.jpg");
+    background-position: top;
+    background-size: cover;
+    background-attachment: fixed;
+    background-origin: content-box;
+    background-repeat: no-repeat;
+}
+
+.content {
+    padding-top: 18%;
+    font-family: 'Patua One', cursive;
+    font-size: 35px;
+    color: rgb(251, 250, 255);
+}
